@@ -10,7 +10,9 @@ program tictactoe.aleo {
         c2: u8,
         c3: u8
     }
+    
 
+    
     // A tic tac toe board.
     // - `r1` : The first row in the board.
     // - `r2` : The second row in the board.
